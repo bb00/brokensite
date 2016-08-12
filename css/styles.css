@@ -1,0 +1,12 @@
+/* styles.css */
+.nav {
+	height: 100%;
+}
+.sidebar-nav {
+	width: 300px;
+}
+.sidebar-nav > .sidebar-brand {
+  font-size: 35px;
+  height: 65px;
+  line-height: 44px;
+}
