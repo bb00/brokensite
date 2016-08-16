@@ -1,2 +1,4 @@
-# bb00.github.io
-GitHub Pages
+# Elias Griffith
+## My Portfolio / Personal Website
+Blog coming soon;
+Project Pages coming soon;
