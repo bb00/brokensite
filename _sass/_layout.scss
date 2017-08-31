@@ -18,12 +18,9 @@
     margin-bottom: 0;
     float: left;
     text-decoration-line: none;
-    &:hover {
-      text-decoration-line: none;
-    },
+    &,
     &:visited {
         color: $grey-color-dark;
-        text-decoration-line: none;
     }
 }
 
