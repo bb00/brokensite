@@ -5,9 +5,9 @@
     border-top: 5px solid $grey-color-dark;
     border-bottom: 1px solid $grey-color-light;
     min-height: 56px;
-
     // Positioning context for the mobile navigation icon
     position: relative;
+    background-color: #C93535;
 }
 
 .site-title {
@@ -17,10 +17,13 @@
     letter-spacing: 2px;
     margin-bottom: 0;
     float: left;
-
-    &,
+    text-decoration-line: none;
+    &:hover {
+      text-decoration-line: none;
+    },
     &:visited {
         color: $grey-color-dark;
+        text-decoration-line: none;
     }
 }
 
@@ -100,6 +103,8 @@
 .site-footer {
     border-top: 1px solid $grey-color-light;
     padding: $spacing-unit 0;
+    background-color: #C93535;
+
 }
 
 .footer-heading {
